@@ -1,0 +1,2 @@
+http://localhost:8086/samplenotificationendpoint/1
+http://localhost:8086/samplenotificationendpoint/2
